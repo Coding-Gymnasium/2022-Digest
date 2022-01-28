@@ -12,7 +12,7 @@
 
 ## J
 
-[Lua Lessons](https://github.com/Coding-Gymnasium/js-games)
+[JavaScript Games](https://github.com/Coding-Gymnasium/js-games)
 
 <hr>
 
