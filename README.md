@@ -7,6 +7,7 @@
 - ['J'](#j)
 - ['L'](#l)
 - ['R'](#r)
+- ['T'](#t)
 
 <hr>
 
@@ -24,6 +25,13 @@
 
 ## R
 
-[Rust Book](https://github.com/Coding-Gymnasium/rust_book)
+- [Rust Book](https://github.com/Coding-Gymnasium/rust_book)
+- [Rust and Yew mini project 'Counter'](https://github.com/Coding-Gymnasium/rust_counter)
+
+<hr>
+
+## T
+
+[The Odin Project Foundations](https://github.com/Coding-Gymnasium/the-odin-project-foundations)
 
 <hr>
