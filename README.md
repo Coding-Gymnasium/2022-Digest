@@ -13,13 +13,15 @@
 
 ## J
 
-[JavaScript Games](https://github.com/Coding-Gymnasium/js-games)
+- [JS S. Grider Algorithms Udemy Course](https://github.com/Coding-Gymnasium/js-coding-interview-bootcamp)
+- [JavaScript Games](https://github.com/Coding-Gymnasium/js-games)
 
 <hr>
 
 ## L
 
-[Lua Lessons](https://github.com/Coding-Gymnasium/lua)
+- [Lua Games Course](https://github.com/Coding-Gymnasium/lua-games-course)
+- [Lua Lessons](https://github.com/Coding-Gymnasium/lua)
 
 <hr>
 
