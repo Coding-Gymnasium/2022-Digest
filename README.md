@@ -7,14 +7,15 @@
 - ['J'](#j)
 - ['L'](#l)
 - ['R'](#r)
-- ['T'](#t)
 
 <hr>
 
 ## J
 
+- [The Odin Project Javascript](https://github.com/Coding-Gymnasium/the-odin-project-javascript)
 - [JS S. Grider Algorithms Udemy Course](https://github.com/Coding-Gymnasium/js-coding-interview-bootcamp)
 - [JavaScript Games](https://github.com/Coding-Gymnasium/js-games)
+- [The Odin Project Foundations](https://github.com/Coding-Gymnasium/the-odin-project-foundations)
 
 <hr>
 
@@ -29,11 +30,3 @@
 
 - [Rust Book](https://github.com/Coding-Gymnasium/rust_book)
 - [Rust and Yew mini project 'Counter'](https://github.com/Coding-Gymnasium/rust_counter)
-
-<hr>
-
-## T
-
-[The Odin Project Foundations](https://github.com/Coding-Gymnasium/the-odin-project-foundations)
-
-<hr>
